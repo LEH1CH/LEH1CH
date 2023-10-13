@@ -35,7 +35,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEH1CH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEH1CH)](https://github.com/anuraghazra/github-readme-stats)<br>
-
+[![codewars](https://www.codewars.com/users/LEH1CH/badges/large)](https://www.codewars.com/users/rsschool_b84c1b506d38e899) <br>
 <!--
 **LEH1CH/LEH1CH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
